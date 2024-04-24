@@ -1,5 +1,10 @@
-# odin-recipes
+#Odin Recipes
 
-In this mini project I practiced basic html with links/images/lists.
-Created two recipes and linked them to index.html and then submitted to GitHub.
-Practiced commits to GitHub
+First assignment of The Odin Project curriculum:
+
+https://www.theodinproject.com/lessons/foundations-recipes
+
+##Live link:
+https://adrians90.github.io/odin-recipes/
+
+#Built using: HTML and CSS
