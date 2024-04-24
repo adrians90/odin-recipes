@@ -1,6 +1,6 @@
 **Odin Recipes**
 
-First assignment of The Odin Project curriculum:
+First assignment of The Odin Project curriculum(foundations course):
 
 https://www.theodinproject.com/lessons/foundations-recipes
 
