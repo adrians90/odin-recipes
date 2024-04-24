@@ -8,5 +8,6 @@ https://www.theodinproject.com/lessons/foundations-recipes
 
 #Built using: HTML and CSS
 
-![image](https://github.com/adrians90/odin-recipes/assets/128593202/2878ee4c-6965-435a-a770-ad5bb43f8ec2)
+![image](https://github.com/adrians90/odin-recipes/assets/128593202/79859bf4-74c7-47fc-8f66-72f664345f68)
+
 
